@@ -1,0 +1,16 @@
+C:\Users\reval\source\repos\Marvel.Series\obj\Debug\net5.0\Marvel.Series.csproj.AssemblyReference.cache
+C:\Users\reval\source\repos\Marvel.Series\obj\Debug\net5.0\Marvel.Series.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\reval\source\repos\Marvel.Series\obj\Debug\net5.0\Marvel.Series.AssemblyInfoInputs.cache
+C:\Users\reval\source\repos\Marvel.Series\obj\Debug\net5.0\Marvel.Series.AssemblyInfo.cs
+C:\Users\reval\source\repos\Marvel.Series\obj\Debug\net5.0\Marvel.Series.csproj.CoreCompileInputs.cache
+C:\Users\reval\source\repos\Marvel.Series\bin\Debug\net5.0\Marvel.Series.exe
+C:\Users\reval\source\repos\Marvel.Series\bin\Debug\net5.0\Marvel.Series.deps.json
+C:\Users\reval\source\repos\Marvel.Series\bin\Debug\net5.0\Marvel.Series.runtimeconfig.json
+C:\Users\reval\source\repos\Marvel.Series\bin\Debug\net5.0\Marvel.Series.runtimeconfig.dev.json
+C:\Users\reval\source\repos\Marvel.Series\bin\Debug\net5.0\Marvel.Series.dll
+C:\Users\reval\source\repos\Marvel.Series\bin\Debug\net5.0\ref\Marvel.Series.dll
+C:\Users\reval\source\repos\Marvel.Series\bin\Debug\net5.0\Marvel.Series.pdb
+C:\Users\reval\source\repos\Marvel.Series\obj\Debug\net5.0\Marvel.Series.dll
+C:\Users\reval\source\repos\Marvel.Series\obj\Debug\net5.0\ref\Marvel.Series.dll
+C:\Users\reval\source\repos\Marvel.Series\obj\Debug\net5.0\Marvel.Series.pdb
+C:\Users\reval\source\repos\Marvel.Series\obj\Debug\net5.0\Marvel.Series.genruntimeconfig.cache
